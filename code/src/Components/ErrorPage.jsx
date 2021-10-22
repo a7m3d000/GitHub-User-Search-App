@@ -24,13 +24,23 @@ const Parent = styled.section`
   overflow: hidden;
 
   .error-vector {
-    width: 75%;
-    height: 85%;
+    width: 350px;
+    height: 300px;
     position: absolute;
     bottom: -10px;
     right: -30px;
     z-index: 1;
     opacity: 0.1;
+
+    @media screen and (max-width: 576px) {
+      width: 250px;
+      height: 230px;
+    }
+
+    @media screen and (max-width: 375px) {
+      width: 200px;
+      height: 200px;
+    }
   }
 
   .content {

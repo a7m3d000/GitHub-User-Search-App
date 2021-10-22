@@ -182,6 +182,7 @@ const Parent = styled.section`
         text-align: center;
         width: 100%;
         padding: 0.5em;
+        padding-bottom: 1.7em;
         padding-top: 1.3rem;
       }
 

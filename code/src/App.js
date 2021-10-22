@@ -69,14 +69,14 @@ class App extends Component {
       <Parent className="App">
         <ThemeProvider theme={this.state.theme}>
           <GridContainer container spacing={4} justifyContent="center">
-            <Item xs={12} sm={10} md={8}>
+            <Item xs={11} sm={10} md={8}>
               <Header
                 themeChangeHandler={this.themeChangeHandler}
                 noUserImageHandler={this.noUserImageHandler}
               />
             </Item>
 
-            <Item xs={12} sm={10} md={8}>
+            <Item xs={11} sm={10} md={8}>
               <SearchBar
                 getUserDataHandler={this.getUserDataHandler}
                 noUserImageHandler={this.noUserImageHandler}
@@ -84,7 +84,7 @@ class App extends Component {
               />
             </Item>
 
-            <Item xs={12} sm={10} md={8}>
+            <Item xs={11} sm={10} md={8}>
               <Body
                 userData={this.state.userData}
                 noUserImage={this.state.noUserImage}

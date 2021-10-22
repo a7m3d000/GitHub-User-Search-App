@@ -10,11 +10,5 @@ import styled from "styled-components";
 import App from "./App";
 import { Container } from "@mui/material";
 
-
 // JSX
-ReactDOM.render(
-  <Container className="c">
-    <App />
-  </Container>,
-  document.getElementById("root")
-);
+ReactDOM.render(<App />, document.getElementById("root"));

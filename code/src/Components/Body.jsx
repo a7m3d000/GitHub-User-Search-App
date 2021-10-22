@@ -154,7 +154,7 @@ const Parent = styled.section`
   }
 
   @media screen and (max-width: 576px) {
-    padding: 0.9em;
+    padding: 2em;
 
     .info {
       display: flex;
@@ -205,7 +205,7 @@ const Parent = styled.section`
   }
 
   @media screen and (max-width: 375px) {
-    padding: 0.5em;
+    padding: 1em;
 
     .info {
       .numbers {
@@ -222,7 +222,7 @@ const Parent = styled.section`
   }
 
   @media screen and (max-width: 320px) {
-    padding: 0.3em;
+    padding: 1em;
 
     .info {
       .numbers {

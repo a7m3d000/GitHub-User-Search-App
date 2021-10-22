@@ -205,7 +205,7 @@ const Parent = styled.section`
   }
 
   @media screen and (max-width: 375px) {
-    padding: 0.7em;
+    padding: 0.5em;
 
     .info {
       .numbers {
@@ -222,7 +222,7 @@ const Parent = styled.section`
   }
 
   @media screen and (max-width: 320px) {
-    padding: 0.35em;
+    padding: 0.3em;
 
     .info {
       .numbers {
@@ -234,16 +234,6 @@ const Parent = styled.section`
       .footer {
         margin: 0;
         padding: 2em 1em 0 1em;
-      }
-    }
-  }
-
-  @media screen and (max-width: 319px) {
-    padding: 2em;
-
-    .info {
-      .numbers {
-        border-radius: none;
       }
     }
   }

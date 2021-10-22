@@ -181,6 +181,7 @@ const Parent = styled.section`
         margin: 0;
         text-align: center;
         width: 100%;
+        padding: 0.5em;
         padding-top: 1.3rem;
       }
 
@@ -193,6 +194,10 @@ const Parent = styled.section`
 
         div {
           justify-content: center;
+
+          span:nth-child(2) {
+            font-size: 2em;
+          }
         }
       }
 

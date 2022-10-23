@@ -1,4 +1,4 @@
-# Sound Player
+# Github User Finder
 
 This is the **Frontend Source Code** for [**Github User Finder**](https://github-account-finder.vercel.app/) Website.
 

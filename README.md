@@ -15,6 +15,7 @@ This is the **Frontend Source Code** for [**Github User Finder**](https://github
 - Reponsive
 - Nice Design with Tailwind Framework
 - Nice Colors
+- Two Themes: Dark and Light Theme
 
 ---
 

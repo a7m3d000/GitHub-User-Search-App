@@ -45,4 +45,4 @@ This is the **Frontend Source Code** for [**Github User Finder**](https://github
 
 # App's Screenshot
 
-<!-- ![Github User Finder](https://github.com/ahmedmohmd/sound-player/blob/main/app-screenshot.png?raw=true) -->
+![Github User Finder](https://github.com/ahmedmohmd/github-user-finder/blob/main/app-screenshot.png?raw=true)
